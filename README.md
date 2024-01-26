@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1kMSdC1vr9dEcYc39Y6H5owaIwZBN4A52?usp=sharing
+
 # Animated_Story_Teller
 A multi-modal generative model that combines 3 different generative AI models to create a story based on a prompt, in the voice of a given person, and animated as spoken by a given person.
 
