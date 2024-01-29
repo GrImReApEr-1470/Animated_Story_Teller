@@ -6,3 +6,7 @@ A multi-modal generative model that combines 3 different generative AI models to
 It uses a finetuned GPT-2 model which was finetuned on 4000 reddit stories to generate a random story based on a prompt(start of the story).
 Next, it uses xtts_v2 model to convert the generated story into an audio file using a voice sample provided to it.
 Further, it uses the MakeItTalk model to create an animation of a given face to give an effect that the mouth/face movements match the words spoken in the audio file.
+
+
+https://github.com/GrImReApEr-1470/Animated_Story_Teller/assets/65752265/41ce4377-462e-42d3-b87a-0e3e66353a10
+
