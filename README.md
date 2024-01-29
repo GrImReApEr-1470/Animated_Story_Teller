@@ -9,5 +9,6 @@ Further, it uses the MakeItTalk model to create an animation of a given face to 
 
 
 https://github.com/GrImReApEr-1470/Animated_Story_Teller/assets/65752265/41ce4377-462e-42d3-b87a-0e3e66353a10
+
 Prompt: This is the story of me in my teens.
 Generated Story: This is the story of me in my teens. I was a middle school girl. I had my first crush, I was a high school kid. But, as a high schooler, I was a *lot of* girls.  As I grew up, I learned to hate this world that I hated. I began to hate the place I was in. I began to hate the way people were treated. For instance, when my mom was diagnosed with cancer, I lost a lot
